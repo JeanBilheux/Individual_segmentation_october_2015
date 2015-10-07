@@ -1,0 +1,2 @@
+x_left_value : 5698
+x_right_value : 9660

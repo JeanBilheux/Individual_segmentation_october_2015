@@ -1,4 +1,4 @@
-index_image : 4
-max_x_axis : 34235
-max_y_axis : 32203
+index_image : 33
+max_x_axis : 65535
+max_y_axis : 32196
 max_intensity: 8140
